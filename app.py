@@ -64,6 +64,7 @@ else:
     print('No es mayor de edad')
     print('Mensaje de prueba')
 
+
 #For
 for per in personas:
     print(per)
